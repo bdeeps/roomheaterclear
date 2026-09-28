@@ -1,0 +1,126 @@
+{
+  "slug": "roomheaterclear",
+  "box": 91,
+  "question": "How does a room heater work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/roomheaterclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "A million years from a fire in a cave to glowing halogen tubes, oil radiators, self-limiting ceramics and heat pumps, and the angithi that still kills in closed rooms.\n\n1000000 BCE: Ash deep inside a cave\n80 BCE: Fire under the floor\n1742: Franklin's Pennsylvania fireplace\n1800: Heat beyond the red\n1879: Glow rises as temperature to the fourth power\n1906: A wire that can glow for years\n\nThe full story, with 25 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/roomheaterclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/roomheaterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #roomheater #oilfilledradiator #halogenheater #fanheater #ptc #infrared #history",
+      "youtube": {
+        "title": "The history of the room heater in 45 seconds #shorts",
+        "description": "A million years from a fire in a cave to glowing halogen tubes, oil radiators, self-limiting ceramics and heat pumps, and the angithi that still kills in closed rooms.\n\n1000000 BCE · Ash deep inside a cave (Early humans, probably Homo erectus)\n80 BCE · Fire under the floor (Sergius Orata (attributed))\n1742 · Franklin's Pennsylvania fireplace (Benjamin Franklin)\n1800 · Heat beyond the red (William Herschel)\n1879 · Glow rises as temperature to the fourth power (Josef Stefan; Ludwig Boltzmann)\n1906 · A wire that can glow for years (Albert Marsh)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a room heater work?\n\nEvery electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going. Take nine heaters apart in 3D, heat a Delhi bedroom through a January night, and see why an angithi in a closed room can kill.\n\n→ Every electric heater turns all its electricity into heat; they differ in how it reaches you.\n→ A halogen heater’s infrared crosses the air and warms you, not the room.\n→ Hotter glows brighter: radiated power rises as temperature to the fourth power.\n→ An oil radiator stores heat in oil and steel, so it keeps warming after it is switched off.\n→ A 2 kW heater warms a Delhi bedroom until its leaks match its power.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/roomheaterclear (link in bio)\n\nBox No. 091 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #roomheater #oilfilledradiator #halogenheater #fanheater #ptc #infrared #convection #carbonmonoxide #angithi",
+    "carousel": "Swipe through: How does a room heater work?\n\nEvery electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going. Take nine heaters apart in 3D, heat a Delhi bedroom through a January night, and see why an angithi in a closed room can kill.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/roomheaterclear (link in bio).\n\nBox No. 091 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #roomheater #oilfilledradiator #halogenheater #fanheater #ptc #infrared",
+    "youtube": {
+      "title": "How does a room heater work? #shorts",
+      "description": "Every electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going. Take nine heaters apart in 3D, heat a Delhi bedroom through a January night, and see why an angithi in a closed room can kill.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/roomheaterclear\n\nBox No. 091 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a room heater work? (interactive explainer)",
+      "description": "Every electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going. Take nine heaters apart in 3D, heat a Delhi bedroom through a January night, and see why an angithi in a closed room can kill.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/roomheaterclear\n\nIn this video:\n• Every heater is 100% efficient. A heater pushes current through a wire with resistance, and all of that electricity becomes heat: a 2,000 W heater on 230 V mains is about 26 Ω and makes 2 kWh of heat an hour.\n• Glow or flow. Radiant heaters (rod, quartz, halogen, carbon) make something glow, and their infrared warms whatever it shines on, in seconds.\n• Oil, bimetal and clever stones. An oil-filled radiator stores over 10 kJ per degree in its oil and steel, so it warms slowly and stays warm.\n• A room is a leaky box. A typical Indian bedroom leaks about 100 watts for every degree it is held above the outside air.\n• Dry air and a silent gas. Warming air adds no water, so humidity falls: foggy 85% outside becomes about 32% indoors at 22 °C.\n• Use it safely. Keep a metre clear of curtains and beds, plug a 2 kW heater (8.7 A) into a 16 A wall socket rather than a thin extension board, switch off at bedtime, and buy one with the ISI mark.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a room heater work?\n\nEvery electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/",
+    "linkedin": "How does a room heater work?\n\nEvery electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going. Take nine heaters apart in 3D, heat a Delhi bedroom through a January night, and see why an angithi in a closed room can kill.\n\n1. Every heater is 100% efficient\n2. Glow or flow\n3. Oil, bimetal and clever stones\n4. A room is a leaky box\n5. Dry air and a silent gas\n6. Use it safely\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 091 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/roomheaterclear/\nCode: https://github.com/bdeeps/roomheaterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T12:02:34.138Z"
+}

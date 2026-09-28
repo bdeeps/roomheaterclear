@@ -1,0 +1,731 @@
+{
+  "title": "The history of the room heater",
+  "tagline": "A million years from a fire in a cave to glowing halogen tubes, oil radiators, self-limiting ceramics and heat pumps, and the angithi that still kills in closed rooms.",
+  "intro": "For almost all of history, a warm room meant a fire in it, with its smoke. Romans and Koreans learned to hide the fire under the floor, and Franklin and Rumford squeezed more heat out of stoves and fireplaces. Then electricity arrived: glowing wires, nichrome that could glow for years, fireclay rods, halogen tubes, oil radiators and ceramic stones that refuse to overheat. Today heat pumps move heat instead of making it, while across North India the old angithi remains both a comfort and a deadly winter danger.",
+  "eras": [
+    {
+      "id": "fire",
+      "name": "Fire in the room",
+      "from": -1000000,
+      "to": 1700,
+      "color": "#ff7a59",
+      "summary": "Hearths, braziers and fire pots warm people directly; Romans and Koreans send hot smoke under floors."
+    },
+    {
+      "id": "stove",
+      "name": "Stoves, science and infrared",
+      "from": 1700,
+      "to": 1885,
+      "color": "#ffb547",
+      "summary": "Iron stoves and better fireplaces, the discovery of infrared, the bimetal strip, the heat pump idea and the fourth-power law of glow."
+    },
+    {
+      "id": "electric",
+      "name": "Electric fires",
+      "from": 1885,
+      "to": 1950,
+      "color": "#c49bff",
+      "summary": "Resistance wire turns electricity into heat. Nichrome and fireclay rods make the glowing electric fire a household object."
+    },
+    {
+      "id": "modern",
+      "name": "New elements",
+      "from": 1950,
+      "to": 2000,
+      "color": "#5ce1a9",
+      "summary": "PTC ceramics, halogen tubes, portable oil radiators and better stoves with flues."
+    },
+    {
+      "id": "india",
+      "name": "Safer, smarter warmth",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Doctors and officials count carbon monoxide deaths from braziers, while heat pumps become the efficient way to heat."
+    }
+  ],
+  "events": [
+    {
+      "year": -1000000,
+      "date": "c. 1 million years ago",
+      "era": "fire",
+      "art": "flame",
+      "key": true,
+      "title": "Ash deep inside a cave",
+      "who": "Early humans, probably Homo erectus",
+      "where": "Wonderwerk Cave, Northern Cape",
+      "country": "South Africa",
+      "text": "Far inside Wonderwerk Cave, scientists found ash from burnt plants and bits of burnt bone in layers about a million years old. It is among the oldest secure signs of people using fire, though some researchers argue for older ones.",
+      "why": "A fire in the living space was humanity's first room heater, and the first source of indoor smoke.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -1000,
+      "date": "c. 1000 BCE (possible)",
+      "era": "fire",
+      "art": "heatwaves",
+      "title": "Warm floors in Korea",
+      "who": "Early Korean builders",
+      "where": "Unggi (today in North Korea)",
+      "country": "North Korea",
+      "text": "The ondol carries smoke from a kitchen firebox through channels under a stone floor and out of a chimney on the far side. Traces at Unggi may date to about 1000 BCE, and some researchers point to even older Neolithic dwellings; the dates are debated.",
+      "why": "Heating the floor turns a whole room into a gentle, low-temperature radiator, the same idea as underfloor heating today.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": -80,
+      "date": "c. 80 BCE (attributed)",
+      "era": "fire",
+      "art": "building",
+      "key": true,
+      "title": "Fire under the floor",
+      "who": "Sergius Orata (attributed)",
+      "where": "Campania, Roman Republic (today Italy)",
+      "country": "Italy",
+      "text": "Roman baths and villas were warmed by a hypocaust: a furnace pushed hot gases through a space under a floor raised on brick stacks and up through flues in the walls. Vitruvius credited the businessman Sergius Orata, though similar heating may be older.",
+      "why": "It is central heating: one fire, and the heat carried round a building by moving hot gas.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "by c. 1600 (Mughal era, attributed)",
+      "era": "fire",
+      "art": "burner",
+      "title": "A fire pot under the pheran",
+      "who": "Kashmiri potters and wicker weavers",
+      "where": "Kashmir",
+      "country": "India",
+      "text": "The kangri is a small earthen pot of hot embers in a wicker basket, carried under the long woollen pheran through Kashmir's winters. It was certainly in use in Mughal times; a story that it came from Italy is disputed. Its bigger cousin across North India is the angithi, an open brazier of charcoal or coal.",
+      "why": "Portable braziers still warm millions of homes in the Himalaya and the northern plains, with all their risks.",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1742,
+      "date": "1742",
+      "era": "stove",
+      "art": "burner",
+      "key": true,
+      "title": "Franklin's Pennsylvania fireplace",
+      "who": "Benjamin Franklin",
+      "where": "Philadelphia, British America",
+      "country": "United States",
+      "text": "Franklin designed an iron fireplace that stood out in the room, with a hollow baffle that let hot fumes warm the air around it before they left. He described it in a 1744 pamphlet and refused to patent it. David Rittenhouse later fixed its poor draught.",
+      "why": "Getting more heat into the room and less up the chimney is what every stove since has tried to do.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1759,
+      "date": "1759",
+      "era": "stove",
+      "art": "thermometer",
+      "title": "Two metals that bend with heat",
+      "who": "John Harrison",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "For his third sea clock, H3, Harrison bonded strips of brass and steel together. Brass expands more when warm, so the strip bent as the temperature changed, which he used to correct the clock.",
+      "why": "The same bimetal strip opens and closes the thermostat in oil radiators, irons and heaters today.",
+      "box": "inside",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1796,
+      "date": "1796–1798",
+      "era": "stove",
+      "art": "flame",
+      "title": "A fireplace that throws heat forward",
+      "who": "Count Rumford (Benjamin Thompson)",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Rumford made fireplaces shallower, with widely angled sides and a narrow, smooth throat. The slanted sides reflected more radiant heat into the room and the chimney drew smoke without pulling out so much warm air. His papers appeared in 1796 and 1798.",
+      "why": "Shaping surfaces to aim radiant heat at people is what a radiant heater's reflector still does.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1800,
+      "date": "1800",
+      "era": "stove",
+      "art": "thermometer",
+      "key": true,
+      "title": "Heat beyond the red",
+      "who": "William Herschel",
+      "where": "Slough, England",
+      "country": "United Kingdom",
+      "text": "Herschel split sunlight with a prism and put thermometers in each colour. The temperature rose from violet to red, and rose again just past the red end, where there was no visible light at all. He had found infrared.",
+      "why": "Infrared is how radiant heaters, the Sun and an angithi's glowing coals warm your skin.",
+      "box": "ways",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852",
+      "era": "stove",
+      "art": "compressor",
+      "title": "An engine that pumps heat",
+      "who": "William Thomson (Lord Kelvin)",
+      "where": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "text": "Kelvin showed that a machine running a heat engine backwards could pump heat from cold outdoor air into a building, delivering more heat than the work put in.",
+      "why": "It is the idea behind the heat pump, and an AC in heat mode, which gives about three units of heat per unit of electricity.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1856,
+      "date": "1855–1857",
+      "era": "stove",
+      "art": "compressor",
+      "title": "The first working heat pump",
+      "who": "Peter von Rittinger",
+      "where": "Ebensee, Austrian Empire",
+      "country": "Austria",
+      "text": "Rittinger built a heat pump that recycled heat to evaporate brine at a salt works, the first practical machine of its kind.",
+      "why": "Heat pumps took a century more to reach homes, and are now the most efficient way to heat a room.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1866,
+      "date": "1866",
+      "era": "stove",
+      "art": "person",
+      "title": "A doctor links the kangri to cancer",
+      "who": "William Jackson Elmslie",
+      "where": "Srinagar, Kashmir",
+      "country": "India",
+      "text": "The missionary doctor Elmslie described cancers on the bellies and thighs of Kashmiris who carried kangris against their skin every winter. He first blamed the burns; later work pointed to tar from the smouldering charcoal as well.",
+      "why": "Heat sources held close to the body for years can harm skin, a warning that still applies.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1877–1879",
+      "era": "stove",
+      "art": "heatwaves",
+      "key": true,
+      "title": "Glow rises as temperature to the fourth power",
+      "who": "Josef Stefan; Ludwig Boltzmann",
+      "where": "Vienna, Austria-Hungary",
+      "country": "Austria",
+      "text": "From John Tyndall's measurements of glowing platinum wire, Stefan worked out that a hot body radiates in proportion to the fourth power of its absolute temperature. Boltzmann derived the law from theory in 1884.",
+      "why": "It explains why a halogen filament at 2,200 °C pours out infrared while an oil radiator at 75 °C barely glows.",
+      "box": "ways",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "1891–1894",
+      "era": "electric",
+      "art": "plug",
+      "title": "Electricity for heating and cooking",
+      "who": "R. E. B. Crompton and Crompton & Co.",
+      "where": "London and Chelmsford, England",
+      "country": "United Kingdom",
+      "text": "Crompton's company showed electric heating and cooking devices at the 1891 Crystal Palace exhibition, made an early electric kettle and by 1894 sold a catalogue of 'Domestic Electric Machinery, Electrical Heating and Cooking Apparatus'.",
+      "why": "Heating by resistance became a product you could buy for the home.",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1892 – c. 1895",
+      "era": "electric",
+      "art": "heatwaves",
+      "title": "Heaters made of glowing lamps",
+      "who": "Herbert John Dowsing",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Dowsing demonstrated electric cooking at Crystal Palace in 1892. Around 1895 he invented radiant-heat lamps for treating rheumatism, and a 'luminous radiator' of long glowing bulbs in front of a reflector to heat rooms.",
+      "why": "The glowing tube in front of a reflector is still the design of every radiant heater.",
+      "box": "family",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "electric",
+      "art": "resistor",
+      "key": true,
+      "title": "A wire that can glow for years",
+      "who": "Albert Marsh",
+      "where": "Illinois",
+      "country": "United States",
+      "text": "Marsh patented nickel–chromium alloy, nichrome. Its resistance is about 66 times copper's and, when hot, it grows a thin skin of chromium oxide that stops it burning away.",
+      "why": "Nichrome made safe, long-lived electric heaters, toasters and kettles possible, and is still in most heater coils.",
+      "box": "family",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1912",
+      "era": "electric",
+      "art": "coil",
+      "key": true,
+      "title": "The fireclay electric fire",
+      "who": "Charles Reginald Belling",
+      "where": "Enfield, England",
+      "country": "United Kingdom",
+      "text": "Belling, who had trained at Crompton's, patented heating elements of resistance wire wound on fireclay (patent 19,054). His 'Standard' fire, with six glowing firebars in a cast-iron surround, was his company's first product.",
+      "why": "Wire wound on a ceramic former is exactly the 'rod heater' still sold across India.",
+      "box": "family",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "c. 1940s",
+      "era": "electric",
+      "art": "car",
+      "title": "Infrared lamps go to work",
+      "who": "Industry, during the Second World War",
+      "where": "United States and Europe",
+      "country": "United States",
+      "text": "Banks of infrared lamps were used to dry and cure paint on military equipment much faster than ovens, and car makers took them up in the 1950s.",
+      "why": "Industrial infrared taught engineers to build fast, focused radiant emitters like those in today's quartz heaters.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "modern",
+      "art": "chip",
+      "key": true,
+      "title": "A ceramic that limits itself",
+      "who": "P. W. Haayman, R. Dam and H. A. Klasens (Philips)",
+      "where": "Eindhoven, Netherlands",
+      "country": "Netherlands",
+      "text": "Researchers at Philips found that barium titanate, doped to conduct, has a resistance that shoots up just above a certain temperature. Their patent, filed in 1955, founded PTC thermistor ceramics.",
+      "why": "PTC stones in today's ceramic heaters throttle their own power, so they cannot overheat if the air is blocked.",
+      "box": "inside",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "modern",
+      "art": "flash",
+      "title": "The tungsten-halogen lamp",
+      "who": "General Electric engineers",
+      "where": "United States",
+      "country": "United States",
+      "text": "GE patented a practical lamp with a tungsten filament in a small quartz tube filled with halogen gas, which returns evaporated tungsten to the filament so it can run hotter and last longer.",
+      "why": "The same tubes, with filaments near 2,200 °C, became the halogen heater: warmth within a second of switching on.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "1974 (some sources say 1975)",
+      "era": "modern",
+      "art": "waterdrop",
+      "title": "The portable oil radiator goes mass-market",
+      "who": "De'Longhi",
+      "where": "Treviso, Italy",
+      "country": "Italy",
+      "text": "In the first oil crisis, the Italian parts maker De'Longhi launched its first own product: a portable, oil-filled electric radiator on wheels. It sold to millions of homes.",
+      "why": "Sealed-oil radiators give gentle, even heat with no glow and no fumes, which made them a favourite for bedrooms.",
+      "box": "inside",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988",
+      "era": "modern",
+      "art": "burner",
+      "title": "A Kashmiri bukhari with a flue",
+      "who": "Dr Farooq Ashai (HeatKing)",
+      "where": "Srinagar, Kashmir",
+      "country": "India",
+      "text": "The bukhari, an iron stove burning wood, coal or sawdust with a pipe to carry smoke outside, has warmed Kashmiri and Ladakhi homes for generations; its origins are unclear. In 1988 a Srinagar firm began making improved bukharis under a licence from Germany's Wamsler, according to Kashmir Life.",
+      "why": "A stove with a flue carries smoke and carbon monoxide outdoors, which an open angithi cannot.",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "india",
+      "art": "lungs",
+      "key": true,
+      "title": "Doctors count the winter deaths",
+      "who": "Forensic doctors at AIIMS",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "A study of every fatal carbon monoxide case autopsied at AIIMS New Delhi from 2010 to 2015 found 40 deaths, about 80% in winter, peaking in January. Almost all happened in closed rooms without ventilation, most often with a firepot.",
+      "why": "It showed that angithi deaths are a predictable, preventable winter pattern, not bad luck.",
+      "box": "air",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "india",
+      "art": "molecule",
+      "title": "Official records miss most of them",
+      "who": "National Crime Records Bureau",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India's accidental deaths report for 2022 listed just 10 deaths from carbon monoxide gas for the whole country (13 in 2021). News reports alone count more than that in Delhi in a single winter month, so most such deaths are probably recorded under other causes such as suffocation.",
+      "why": "Without good numbers, the scale of heater poisoning stays hidden; the true toll is unknown.",
+      "box": "air",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2022–2023",
+      "era": "india",
+      "art": "acunit",
+      "key": true,
+      "title": "Heat pumps overtake furnaces",
+      "who": "Buyers in the United States and Europe",
+      "where": "United States and Europe",
+      "country": "United States",
+      "text": "In 2022 Americans bought more heat pumps than gas furnaces for the first time, and about 3 million heat pumps were sold in Europe in 2023. The IEA estimates heat pumps met about 10% of the world's building heating needs in 2021.",
+      "why": "Moving heat instead of making it cuts the electricity for the same warmth by about two thirds; an Indian split AC with heat mode can do the same.",
+      "box": "room",
+      "sources": [
+        11,
+        27
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "January 2024",
+      "era": "india",
+      "art": "flame",
+      "key": true,
+      "title": "Fifteen deaths in one Delhi month",
+      "who": "Delhi Fire Service",
+      "where": "Delhi",
+      "country": "India",
+      "text": "Delhi Fire Service said 15 people died in Delhi in January 2024 after using angithis in closed rooms, and more than 20 across the wider NCR. They included a family of four and a young mother with her two-year-old son.",
+      "why": "The fix is simple and free: never burn charcoal or coal in a closed room, and never sleep beside one.",
+      "box": "air",
+      "sources": [
+        28
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Central heating by hot gas under the floor (hypocaust)",
+      "value": "c. 80 BCE",
+      "who": "Sergius Orata (attributed), Roman Republic"
+    },
+    {
+      "label": "Iron stove standing in the room to warm the air",
+      "value": "1742",
+      "who": "Benjamin Franklin, Philadelphia"
+    },
+    {
+      "label": "Infrared discovered",
+      "value": "1800",
+      "who": "William Herschel, England"
+    },
+    {
+      "label": "Working heat pump",
+      "value": "1855–1857",
+      "who": "Peter von Rittinger, Austria"
+    },
+    {
+      "label": "Nickel–chromium heating wire",
+      "value": "1906",
+      "who": "Albert Marsh, USA"
+    },
+    {
+      "label": "Fireclay-element electric fire in production",
+      "value": "1912",
+      "who": "Charles Belling, England"
+    },
+    {
+      "label": "PTC barium titanate ceramic patent",
+      "value": "1955",
+      "who": "Philips, Netherlands"
+    },
+    {
+      "label": "Practical tungsten-halogen lamp",
+      "value": "1959",
+      "who": "General Electric, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sergius Orata",
+      "life": "active c. 95 BCE",
+      "role": "Businessman and inventor",
+      "from": "Roman Republic",
+      "note": "Credited by Vitruvius with the hypocaust, heating by hot gas under a raised floor."
+    },
+    {
+      "name": "Benjamin Franklin",
+      "life": "1706 – 1790",
+      "role": "Printer, scientist and statesman",
+      "from": "British America",
+      "note": "Designed the Pennsylvania fireplace in 1742 and refused to patent it."
+    },
+    {
+      "name": "John Harrison",
+      "life": "1693 – 1776",
+      "role": "Clockmaker",
+      "from": "England",
+      "note": "Invented the bimetallic strip for his H3 sea clock; it now works heater thermostats."
+    },
+    {
+      "name": "Count Rumford (Benjamin Thompson)",
+      "life": "1753 – 1814",
+      "role": "Physicist and inventor",
+      "from": "British America, later Bavaria and England",
+      "note": "Reshaped fireplaces to radiate more heat into rooms and send less up the chimney."
+    },
+    {
+      "name": "William Herschel",
+      "life": "1738 – 1822",
+      "role": "Astronomer",
+      "from": "Hanover, working in England",
+      "note": "Discovered infrared with a prism and thermometers in 1800."
+    },
+    {
+      "name": "Josef Stefan",
+      "life": "1835 – 1893",
+      "role": "Physicist",
+      "from": "Austria-Hungary",
+      "note": "Found that radiated power grows as the fourth power of absolute temperature."
+    },
+    {
+      "name": "William Jackson Elmslie",
+      "life": "1832 – 1872",
+      "role": "Medical missionary",
+      "from": "Scotland, working in Kashmir",
+      "note": "First studied the skin cancers of kangri users in 1866."
+    },
+    {
+      "name": "R. E. B. Crompton",
+      "life": "1845 – 1940",
+      "role": "Electrical engineer",
+      "from": "England",
+      "note": "His company sold some of the first electric heating and cooking appliances in the 1890s."
+    },
+    {
+      "name": "Herbert John Dowsing",
+      "life": "c. 1859 – 1931",
+      "role": "Electrical engineer",
+      "from": "England",
+      "note": "Built radiant heaters from long glowing lamps in front of reflectors."
+    },
+    {
+      "name": "Albert Marsh",
+      "life": "active 1900s",
+      "role": "Metallurgist",
+      "from": "USA",
+      "note": "Patented nichrome in 1906, the wire in most heater coils."
+    },
+    {
+      "name": "Charles Reginald Belling",
+      "life": "1884 – 1965",
+      "role": "Engineer and manufacturer",
+      "from": "England",
+      "note": "Patented wire-on-fireclay heating elements in 1912."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "A 2,000 W heater and a 2,000 W kettle make exactly the same amount of heat each second. Every electric heater is 100% efficient; only a heat pump beats it.",
+    "A kangri's embers keep its outside at about 66 °C, and Kashmiris carry it under the pheran all winter.",
+    "'Bukhar' is Persian for heat or fever, which gave the Kashmiri bukhari stove its name.",
+    "India's official records listed 10 carbon monoxide deaths for the whole country in 2022; Delhi's fire service counted 15 angithi deaths in the city in January 2024 alone.",
+    "A halogen heater's filament, at about 2,200 °C, radiates brightest at about 1.2 µm, just beyond red light; an oil radiator at 75 °C radiates brightest at about 8 µm."
+  ],
+  "sources": [
+    {
+      "title": "Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave (Berna et al., 2012)",
+      "publisher": "PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1117620109"
+    },
+    {
+      "title": "Wonderwerk Cave",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wonderwerk_Cave"
+    },
+    {
+      "title": "Ondol",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ondol"
+    },
+    {
+      "title": "Hypocaust",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hypocaust"
+    },
+    {
+      "title": "Kanger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kanger"
+    },
+    {
+      "title": "Angithi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Angithi"
+    },
+    {
+      "title": "Franklin stove",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Franklin_stove"
+    },
+    {
+      "title": "Bimetallic strip",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bimetallic_strip"
+    },
+    {
+      "title": "Rumford fireplace",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rumford_fireplace"
+    },
+    {
+      "title": "Infrared",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Infrared"
+    },
+    {
+      "title": "Infrared heater",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Infrared_heater"
+    },
+    {
+      "title": "Heat pump",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heat_pump"
+    },
+    {
+      "title": "Stefan–Boltzmann law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law"
+    },
+    {
+      "title": "R. E. B. Crompton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/R._E._B._Crompton"
+    },
+    {
+      "title": "Crompton and Company Limited",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap21548/crompton-and-company-limited"
+    },
+    {
+      "title": "Herbert John Dowsing",
+      "publisher": "Graces Guide",
+      "url": "https://www.gracesguide.co.uk/Herbert_John_Dowsing"
+    },
+    {
+      "title": "Nichrome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nichrome"
+    },
+    {
+      "title": "Belling electric fire, 1913",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co48748/belling-electric-fire-1913-electric-fire"
+    },
+    {
+      "title": "Belling and Co",
+      "publisher": "Graces Guide",
+      "url": "https://www.gracesguide.co.uk/Belling_and_Co"
+    },
+    {
+      "title": "Barium titanate-based thermistors: past achievements, state of the art, and future perspectives",
+      "publisher": "Applied Physics Reviews (AIP)",
+      "url": "https://pubs.aip.org/aip/apr/article/8/3/031318/124915/Barium-titanate-based-thermistors-Past"
+    },
+    {
+      "title": "Halogen lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halogen_lamp"
+    },
+    {
+      "title": "History",
+      "publisher": "De'Longhi Group",
+      "url": "https://www.delonghigroup.com/en/group/history"
+    },
+    {
+      "title": "De'Longhi S.p.A.",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/delonghi-spa"
+    },
+    {
+      "title": "Bukhari (heater)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bukhari_(heater)"
+    },
+    {
+      "title": "The Chameleon Bukhari",
+      "publisher": "Kashmir Life",
+      "url": "https://kashmirlife.net/the-chameleon-bukhari-issue-40-vol-07-92229/"
+    },
+    {
+      "title": "Fatal carbon monoxide poisoning: a lesson from a retrospective study at All India Institute of Medical Sciences, New Delhi",
+      "publisher": "Journal of Family Medicine and Primary Care",
+      "url": "https://journals.lww.com/jfmpc/fulltext/2017/06040/fatal_carbon_monoxide_poisoning__a_lesson_from_a.19.aspx"
+    },
+    {
+      "title": "Accidental Deaths & Suicides in India 2022, Table 1.6",
+      "publisher": "National Crime Records Bureau",
+      "url": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1702017136Table16allindia.pdf"
+    },
+    {
+      "title": "The Future of Heat Pumps",
+      "publisher": "International Energy Agency",
+      "url": "https://www.iea.org/reports/the-future-of-heat-pumps"
+    },
+    {
+      "title": "Deadly winter: 15 died in Jan after inhaling angithi smoke in Delhi",
+      "publisher": "Siasat (IANS)",
+      "url": "https://www.siasat.com/deadly-winter-15-died-in-jan-after-inhaling-angithi-smoke-in-delhi-2967280/"
+    }
+  ]
+}

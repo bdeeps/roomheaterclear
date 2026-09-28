@@ -1,0 +1,107 @@
+{
+  "slug": "roomheaterclear",
+  "box": 91,
+  "date": "2026-10-04",
+  "title": "RoomHeaterClear",
+  "question": "How does a room heater work?",
+  "hook": "Every electric heater turns 100% of its electricity into heat, yet a halogen warms your face in a second while an oil radiator needs many minutes to get going. Take nine heaters apart in 3D, heat a Delhi bedroom through a January night, and see why an angithi in a closed room can kill.",
+  "thumbText": "HOW A ROOM HEATER WORKS",
+  "field": "physics",
+  "minutes": 14,
+  "tags": [
+    "room heater",
+    "oil-filled radiator",
+    "halogen heater",
+    "fan heater",
+    "PTC",
+    "infrared",
+    "convection",
+    "carbon monoxide",
+    "angithi",
+    "winter",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Every heater is 100% efficient",
+      "text": "A heater pushes current through a wire with resistance, and all of that electricity becomes heat: a 2,000 W heater on 230 V mains is about 26 Ω and makes 2 kWh of heat an hour. Heaters differ only in how the heat reaches you."
+    },
+    {
+      "title": "Glow or flow",
+      "text": "Radiant heaters (rod, quartz, halogen, carbon) make something glow, and their infrared warms whatever it shines on, in seconds. Convection heaters (fan, PTC, convector, oil radiator) warm the air, which carries heat round the whole room, more slowly."
+    },
+    {
+      "title": "Oil, bimetal and clever stones",
+      "text": "An oil-filled radiator stores over 10 kJ per degree in its oil and steel, so it warms slowly and stays warm. A bimetal strip bends to switch it off, a tip-over switch cuts it if it falls, and PTC ceramic stones raise their own resistance above about 220 °C so they can't overheat."
+    },
+    {
+      "title": "A room is a leaky box",
+      "text": "A typical Indian bedroom leaks about 100 watts for every degree it is held above the outside air. On a 7.5 °C Delhi January night, a 2 kW fan heater warms the air in about an hour, but the brick walls take many hours, and eight hours flat out costs 16 units: over ₹100."
+    },
+    {
+      "title": "Dry air and a silent gas",
+      "text": "Warming air adds no water, so humidity falls: foggy 85% outside becomes about 32% indoors at 22 °C. Burning charcoal, coal or wood in a closed room is far worse: odourless carbon monoxide builds up and can kill sleepers in two or three hours."
+    },
+    {
+      "title": "Use it safely",
+      "text": "Keep a metre clear of curtains and beds, plug a 2 kW heater (8.7 A) into a 16 A wall socket rather than a thin extension board, switch off at bedtime, and buy one with the ISI mark. Never sleep beside an angithi."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Resistance heating",
+      "def": "Current through a resistance turns electrical energy into heat: P = V²/R. All of it becomes heat."
+    },
+    {
+      "term": "Infrared",
+      "def": "Light with wavelengths longer than red. Warm things give it off and we feel it as warmth."
+    },
+    {
+      "term": "Stefan–Boltzmann law",
+      "def": "A surface radiates εσT⁴ watts per square metre with T in kelvin, so doubling the temperature gives 16 times the glow."
+    },
+    {
+      "term": "Convection",
+      "def": "Heat carried by moving air or liquid: warm fluid rises, cool fluid sinks, and a fan pushes it harder."
+    },
+    {
+      "term": "Thermal mass",
+      "def": "How much heat an object must take in to warm by one degree; big thermal mass means slow to heat and slow to cool."
+    },
+    {
+      "term": "Bimetal thermostat",
+      "def": "A strip of two metals that bends as it warms and opens a contact at the set temperature."
+    },
+    {
+      "term": "PTC ceramic",
+      "def": "A ceramic whose resistance rises steeply above a switching temperature, so it limits its own power."
+    },
+    {
+      "term": "Relative humidity",
+      "def": "How much water vapour the air holds compared with the most it could hold at that temperature."
+    },
+    {
+      "term": "Carbon monoxide",
+      "def": "A colourless, odourless gas from incomplete burning that stops the blood carrying oxygen."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "roomheaterclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
